@@ -9,6 +9,8 @@ A curated list of projects around Ethereum analytics.
   * [Datasets](#datasets)
   * [Blogs](#blogs)
   * [Development](#development)
+  * [Communities](#communities)
+
 
 
 ## Block explorers
@@ -33,6 +35,7 @@ DApps marketplace are websites that are ranking Ethereum decentralized applicati
 - [DappVolume](https://dappvolume.com/)
 - [State Of the Dapps](https://www.stateofthedapps.com/)
 - [dapp.com](https://www.dapp.com/)
+- [DappStore](https://dappstore.link)
 
 
 ## DEX trackers
@@ -48,7 +51,7 @@ They let you explore usage of decentralized exchanges living on the Ethereum blo
 Non fungible tokens also have their tracking platforms.
 
 - [Non Fungible](https://nonfungible.com/)
-- [Ethereum's NFTs tracker](https://etherscan.io/tokentxns-nft)
+- [Etherscan's NFTs tracker](https://etherscan.io/tokentxns-nft)
 
 
 ## Datasets
@@ -57,7 +60,7 @@ Access directly transactions events and do your own analysis.
 
 - [Ethereum BigQuery dataset](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics)
 - [Function signature database](https://www.4byte.directory/)
-- [ERC20 token logo](https://github.com/TrustWallet/tokens)
+- [ERC20 token logos](https://github.com/TrustWallet/tokens)
 
 
 
@@ -74,6 +77,8 @@ Interesting blogs that covers data on the Ethereum blockchain.
 A list of useful libraries and ressources for working with Ethereum's data.
 
 - [Ethereum input data decoder: Decode transactions parameters](https://github.com/miguelmota/ethereum-input-data-decoder)
+- [Transactions decoder](https://github.com/ConsenSys/abi-decoder)
+
 
 ## Communities
 
