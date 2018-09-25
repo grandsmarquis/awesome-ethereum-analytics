@@ -1,6 +1,15 @@
-# awesome-ethereum-analytics
+# Awesome Ethereum Analytics
 
 A curated list of projects around Ethereum analytics.
+
+  * [Block explorers](#block-explorers)
+  * [DApps marketplace](#dapps-marketplace)
+  * [DEX trackers](#dex-trackers)
+  * [NFT trackers](#nft-trackers)
+  * [Datasets](#datasets)
+  * [Blogs](#blogs)
+  * [Development](#development)
+
 
 ## Block explorers
 
