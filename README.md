@@ -75,6 +75,12 @@ A list of useful libraries and ressources for working with Ethereum's data.
 
 - [Ethereum input data decoder: Decode transactions parameters](https://github.com/miguelmota/ethereum-input-data-decoder)
 
+## Communities
+
+Meet other people working in the Ethereum analytics space.
+
+- [Blockchain Data Slack](https://join.slack.com/t/txdata/shared_invite/enQtNDQxNTE2ODcwNzg0LWI3YWNmMjA2NzU4NmVhZDhkZmQzY2Y3ZjRiMDBlYmQ2OTIyNGQyZjA5MzE0OTczNzFiNmYxYTVhNmJkYmVlNzU)
+
 ***
 
 This list is made for the community, by the community. Feel free to add your ressources or edit the listing by submitting a pull request.
