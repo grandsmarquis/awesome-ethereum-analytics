@@ -34,12 +34,22 @@ They let you explore usage of decentralized exchanges living on the Ethereum blo
 - [Etherscan's DEX tracker](https://etherscan.io/dextracker)
 - [0xTracker](https://0xtracker.com/)
 
+## NFT trackers
 
-## Databases
+Non fungible tokens also have their tracking platforms.
+
+- [Non Fungible](https://nonfungible.com/)
+- [Ethereum's NFTs tracker](https://etherscan.io/tokentxns-nft)
+
+
+## Datasets
 
 Access directly transactions events and do your own analysis.
 
 - [Ethereum BigQuery dataset](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics)
+- [Function signature database](https://www.4byte.directory/)
+- [ERC20 token logo](https://github.com/TrustWallet/tokens)
+
 
 
 ## Blogs
@@ -50,6 +60,12 @@ Interesting blogs that covers data on the Ethereum blockchain.
 - [Alethio](https://medium.com/@alethioEthstats)
 - [Block Science](https://medium.com/block-science)
 
+## Development
+
+A list of useful libraries and ressources for working with Ethereum's data.
+
+- [Ethereum input data decoder: Decode transactions parameters](https://github.com/miguelmota/ethereum-input-data-decoder)
+
 ***
 
-This list is made for the community, to the community. Feel free to add your ressources or edit the listing by submitting a pull request.
+This list is made for the community, by the community. Feel free to add your ressources or edit the listing by submitting a pull request.
