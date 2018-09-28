@@ -78,6 +78,7 @@ Interesting blogs that covers data on the Ethereum blockchain.
 
 A list of useful libraries and ressources for working with Ethereum's data.
 
+- [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks)
 - [Ethereum input data decoder: Decode transactions parameters](https://github.com/miguelmota/ethereum-input-data-decoder)
 - [Transactions decoder](https://github.com/ConsenSys/abi-decoder)
 
