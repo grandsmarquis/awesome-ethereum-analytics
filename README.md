@@ -105,6 +105,7 @@ A list of ressources to learn how to do things
 - [Deep dive into Ethereum event logs](https://codeburst.io/deep-dive-into-ethereum-logs-a8d2047c7371)
 - [How to Export the Entire Ethereum Blockchain to CSV in 2 hours for $10](https://medium.com/@medvedev1088/how-to-export-the-entire-ethereum-blockchain-to-csv-in-2-hours-for-10-69fef511e9a2)
 - [Ethereum in BigQuery:  how we built this dataset](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-how-we-built-dataset), [part2](https://medium.com/@medvedev1088/ethereum-in-bigquery-how-we-built-it-part-2-b4426d0ce243)
+- [Building an Ethereum account scraper with QuickBlocks](https://medium.com/@tjayrush/building-an-ethereum-account-scraper-with-quickblocks-7a2ddff3dc5c)
 
 ***
 
