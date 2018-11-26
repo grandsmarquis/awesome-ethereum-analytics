@@ -32,6 +32,7 @@ A block explorer allows a user to search and navigate the Ethereum blockchain by
 
 DApps marketplace are websites that are ranking Ethereum decentralized applications based on some basic common metrics like volume, number of users and transactions.
 
+- [DAppBoard](https://dappboard.com/)
 - [DappRadar](https://dappradar.com/)
 - [DappVolume](https://dappvolume.com/)
 - [State Of the Dapps](https://www.stateofthedapps.com/)
