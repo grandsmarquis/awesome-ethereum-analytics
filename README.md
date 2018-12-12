@@ -61,7 +61,7 @@ Non-fungible tokens (NFTs) also have their own tracking platforms.
 
 ## Datasets
 
-Perform data anylsis using these publically available Ethereum datasets.
+Perform data anaylsis using these publically available Ethereum datasets.
 
 - [Ethereum BigQuery dataset](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics)
 - [Function signature database](https://www.4byte.directory/)
