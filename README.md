@@ -50,6 +50,7 @@ DEX trackers explore usage of [decentralized exchanges](https://collaborate.theb
 - [Etherscan's DEX tracker](https://etherscan.io/dextracker)
 - [Bloxy's DEX analytics](https://stat.bloxy.info/superset/dashboard/dex/?standalone=true)
 - [0xTracker](https://0xtracker.com/)
+- [0x protocol on DAppBoard](https://dappboard.com/dapp/0x)
 
 ## NFT trackers
 
@@ -57,7 +58,7 @@ Non-fungible tokens (NFTs) also have their own tracking platforms.
 
 - [Non Fungible](https://nonfungible.com/)
 - [Etherscan's NFTs tracker](https://etherscan.io/tokentxns-nft)
-
+- [DAppBoard's NFTs tracker](https://dappboard.com/nfts)
 
 ## Datasets
 
@@ -66,6 +67,7 @@ Perform data analysis using these publically available Ethereum datasets.
 - [Ethereum BigQuery dataset](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics)
 - [Function signature database](https://www.4byte.directory/)
 - [ERC20 token logos](https://github.com/TrustWallet/tokens)
+- [Lot of Ethereum data (tokens, nfts, events signatures...](https://github.com/DAppBoard/dappboard-ethereum-metadata)
 
 
 ## Blogs
