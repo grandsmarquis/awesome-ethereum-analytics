@@ -13,6 +13,7 @@ A curated list of projects around Ethereum analytics.
   * [Communities](#communities)
   * [Tutorials](#tutorials)
 
+Also see [this list of awesome crypto trackers](https://github.com/denisnazarov/awesome-crypto-trackers),
 
 ***
 
